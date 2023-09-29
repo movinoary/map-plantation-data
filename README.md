@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Plantation Data Visualization WebGIS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web Visualization Data perkebunan di indonesia. Data perkebunan di ambil dari berbagai sumber informasi yang berada di internet, dan dikemas menjadi 1 data. Menggunakan google-maps sebagai base map.
 
-## Available Scripts
+![Desain](https://github.com/movinoary/map-plantation-data/blob/master/src/assets/desain.png?raw=true)
 
-In the project directory, you can run:
+Data yang terdapat antara lain
 
-### `npm start`
+- Data Tanaman Cengkeh
+- Data Tanaman Tembakau
+- Data Tanaman Tebu
+- Data Tanaman Teh
+- Data Tanaman Kelapa Sawit
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Clone Repository
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+  git clone "https://github.com/movinoary/map-plantation-data"
+```
 
-### `npm test`
+Masuk ke directory projek
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+  cd map-plantation-data
+```
 
-### `npm run build`
+Instal package
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+  npm install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+jalankan react
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+  npm run dev
+```
 
-### `npm run eject`
+### Package
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [react](https://react.dev/)
+- [react-google-maps](https://www.npmjs.com/package/@react-google-maps/api)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### File
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| File              | Description                                            |
+| :---------------- | :----------------------------------------------------- |
+| `index.js`        | merender awal untuk framework reactjs                  |
+| `index.css`       | kumpulan css yang digunakan                            |
+| `App.js`          | rendering map, konfigurasi data, dan konfidurasi popup |
+| `informasi.js`    | Data type perkebunan                                   |
+| `perkebunan.json` | file geojson data perkebunan                           |
