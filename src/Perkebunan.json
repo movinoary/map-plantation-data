@@ -1,0 +1,1139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "key": "6c2c3f22-190f-4a3b-a791-a35cae3c77a2",
+      "geometry": {
+        "coordinates": [122.8650278006279, 0.5469157986440507],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Gorontalo",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "18.827",
+        "Penghasilan": "321"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "b74e2923-f9c6-490b-98d4-e6cd2e096bdc",
+      "geometry": {
+        "coordinates": [112.9523249134914, -2.5556123590002784],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Kalteng",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "1.500.948",
+        "Penghasilan": "4.364.155"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "16e7172e-acac-42dc-b169-016f09f9b421",
+      "geometry": {
+        "coordinates": [109.3122676089576, -0.042698630069651244],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Kalbar",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "1.553.932",
+        "Penghasilan": "2.898.808"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "1d3e6b38-ed1a-4cc4-be67-a95a707e4d90",
+      "geometry": {
+        "coordinates": [106.09113789585416, -6.7536107700332195],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Banten",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "19.349",
+        "Penghasilan": "25.473"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "19e3d284-676c-412f-9e4f-eecccd6796f0",
+      "geometry": {
+        "coordinates": [103.62910684825425, -3.209595543205239],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumsel",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "1.166.421",
+        "Penghasilan": "3.605.033"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "df3d0be9-1696-45b1-9de4-60b44f71dbcd",
+      "geometry": {
+        "coordinates": [100.50143597148042, -0.9625586627839056],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumbar",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "484.361",
+        "Penghasilan": "1.196.622"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "e5ecbf57-c20c-4e06-90a7-f3090f2c61df",
+      "geometry": {
+        "coordinates": [131.8904218850538, -1.3539393122653394],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Papua Barat",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "76.010",
+        "Penghasilan": "98.355"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "99a199ef-a1d2-4073-af95-7b9e5c7fcc3a",
+      "geometry": {
+        "coordinates": [117.29785590029496, 2.780865040748253],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Kaltara",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "251.689",
+        "Penghasilan": "473.618"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "84a445eb-441e-4aff-adc4-7b4a5ed12180",
+      "geometry": {
+        "coordinates": [103.58436466493049, -1.803866046959243],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jambi",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "887.228",
+        "Penghasilan": "2.074.403"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "e4e36c8b-d3ae-4199-a732-ad652dba21bd",
+      "geometry": {
+        "coordinates": [101.47979164860425, 0.6292841670618117],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Riau",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "2.776.440",
+        "Penghasilan": "9.071.275"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "4f662993-56a0-4b15-b739-78d5cb8b474f",
+      "geometry": {
+        "coordinates": [98.34748055796814, 2.4839923399415937],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumut",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "1.595.572",
+        "Penghasilan": "5.845.782"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "9c8242bf-452a-4642-b08f-4c7acc8649fe",
+      "geometry": {
+        "coordinates": [140.27222098984998, -3.44298227587079],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Papua",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "66.563",
+        "Penghasilan": "115.713"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "d37b6011-9996-4163-83e2-531f7efcaec0",
+      "geometry": {
+        "coordinates": [128.56663172870446, -3.139031040588648],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Maluku",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "11.429",
+        "Penghasilan": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "620a8b87-d3ba-4619-9c18-38ecbf3ad3c4",
+      "geometry": {
+        "coordinates": [107.56143512812497, -7.302198993614908],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jabar",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "13.626",
+        "Penghasilan": "33.201"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "8f7aa175-e69d-4cfb-9595-9076a59479e5",
+      "geometry": {
+        "coordinates": [104.5419896436349, -0.05057745852806761],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Kepri",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "21.604",
+        "Penghasilan": "49.937"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "a847bc18-4dc1-4194-801d-7639cb783a7a",
+      "geometry": {
+        "coordinates": [119.94113114745147, -1.904020595404063],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulteng",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "199.388",
+        "Penghasilan": "358.025"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "6f356e8f-7bbe-48e6-ab15-0927774455cc",
+      "geometry": {
+        "coordinates": [118.97866304374463, -3.511854213428606],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulbar",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "210.906",
+        "Penghasilan": "463.667"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "7a4dec12-d709-4399-bdcd-00fbbfd76abe",
+      "geometry": {
+        "coordinates": [119.60627520155754, -5.443155159865043],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulsel",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "67.899",
+        "Penghasilan": "161.387"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "2f2c9520-7486-4005-993b-f9de57863234",
+      "geometry": {
+        "coordinates": [121.6576769386881, -4.744816683441201],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sultra",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "72.514",
+        "Penghasilan": "104.477"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "eaacb494-da79-4993-8d80-074762cad6c9",
+      "geometry": {
+        "coordinates": [116.3837607924309, 0.09680305909417086],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Kaltim",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "1.046.746",
+        "Penghasilan": "2.212.546"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "5c44be8a-3f6d-4705-8d21-4bbbee251b19",
+      "geometry": {
+        "coordinates": [115.24572424660295, -3.6394981196555847],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Kalsel",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "565.712",
+        "Penghasilan": "1.360.298"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "f0540991-487b-425c-b674-25109f19ea81",
+      "geometry": {
+        "coordinates": [105.27023179214109, -5.372523088177985],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Lampung",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "256.005",
+        "Penghasilan": "512.583"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "9b677ce6-637c-423e-921f-56be2292a639",
+      "geometry": {
+        "coordinates": [105.70689901527066, -2.902880618358438],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Babel",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "266.855",
+        "Penghasilan": "708.447"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "a9d84965-5404-4312-954d-ef1d70fcd5d7",
+      "geometry": {
+        "coordinates": [95.52848962392841, 5.241162634715806],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Aceh",
+        "JenisPohon": "Kepala Sawit",
+        "Luas": "537.048",
+        "Penghasilan": "1.148.936"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "09ee52e8-83ac-420f-9cc2-41f5397d8257",
+      "geometry": {
+        "coordinates": [139.2290090146239, -5.275259451262798],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Papua",
+        "JenisPohon": "Cengkeh",
+        "Luas": "577",
+        "Penghasilan": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "77c4a2bd-ec43-48d7-8fa1-469ebc87873c",
+      "geometry": {
+        "coordinates": [133.04725528453037, -1.3507457181589473],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Papua Barat",
+        "JenisPohon": "Cengkeh",
+        "Luas": "647",
+        "Penghasilan": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "70c61e58-f328-422b-95f2-dd057998ea6e",
+      "geometry": {
+        "coordinates": [115.18315151001667, -8.594422365313164],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Bali",
+        "JenisPohon": "Cengkeh",
+        "Luas": "15.301",
+        "Penghasilan": "3.107"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "26c213ad-df6a-4406-8af9-13d8150b42ae",
+      "geometry": {
+        "coordinates": [106.26940686597527, -6.695763985137205],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Banten",
+        "JenisPohon": "Cengkeh",
+        "Luas": "13.059",
+        "Penghasilan": "4.719"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "89cf01ae-51b0-4f67-ab80-68e15771df24",
+      "geometry": {
+        "coordinates": [105.2109249865926, -4.811850390698538],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Lampung",
+        "JenisPohon": "Cengkeh",
+        "Luas": "7.171",
+        "Penghasilan": "4.719"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "bd220bc2-bf86-4df3-aca0-587cca05bbb1",
+      "geometry": {
+        "coordinates": [129.33383431592262, -3.118665624794346],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Maluku",
+        "JenisPohon": "Cengkeh",
+        "Luas": "44.704",
+        "Penghasilan": "14.036"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "533c16ef-2b8d-41b6-af3a-e82b59013a3a",
+      "geometry": {
+        "coordinates": [127.68599894993451, 0.5693244420090053],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Maluku Utara",
+        "JenisPohon": "Cengkeh",
+        "Luas": "18.789",
+        "Penghasilan": "4.938"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "0eab5af5-1685-441e-9089-87f7fe438b38",
+      "geometry": {
+        "coordinates": [119.81433229291815, -4.839300411779121],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulawesi Selatan",
+        "JenisPohon": "Cengkeh",
+        "Luas": "49.296",
+        "Penghasilan": "17.525"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "263a3567-bfc1-4a3c-9a65-62deca25bf89",
+      "geometry": {
+        "coordinates": [119.9269708442244, -1.3906789733640181],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulawesi Tengah",
+        "JenisPohon": "Cengkeh",
+        "Luas": "52.700",
+        "Penghasilan": "13.848"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "f3b56969-2b2d-47ca-a1f7-01bab65e3d91",
+      "geometry": {
+        "coordinates": [109.71440885909288, 1.0721515378109672],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Kalimantan Barat",
+        "JenisPohon": "Cengkeh",
+        "Luas": "765",
+        "Penghasilan": "232"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "10ce37af-31dd-4a10-9975-765a218f7651",
+      "geometry": {
+        "coordinates": [116.49305263336453, -8.641093078338642],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Nusa Tenggara Barat",
+        "JenisPohon": "Cengkeh",
+        "Luas": "2.696",
+        "Penghasilan": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "a5654bc7-5316-42fa-82bd-ab24deb7b2af",
+      "geometry": {
+        "coordinates": [112.55154835229501, -7.846930090904863],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Timur",
+        "JenisPohon": "Cengkeh",
+        "Luas": "47.095",
+        "Penghasilan": "11.020"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "ea7b7638-c288-440d-a169-efc2130d544f",
+      "geometry": {
+        "coordinates": [107.18213383769017, -7.168348862325573],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Barat",
+        "JenisPohon": "Cengkeh",
+        "Luas": "34.099",
+        "Penghasilan": "6.599"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "3c21bb6b-8e20-4a84-886c-c3c00f446f82",
+      "geometry": {
+        "coordinates": [102.32841696264177, -3.5573322152743003],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Bengkulu",
+        "JenisPohon": "Cengkeh",
+        "Luas": "1.241",
+        "Penghasilan": "83"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "ab6029f9-6c5d-4624-8ea1-5ae695e8dcf8",
+      "geometry": {
+        "coordinates": [100.36480113499812, -0.6779340968643623],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumatera Barat",
+        "JenisPohon": "Cengkeh",
+        "Luas": "7.247",
+        "Penghasilan": "1.783"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "04a62fe0-117e-439e-8323-8c01a0a26337",
+      "geometry": {
+        "coordinates": [98.20920353446064, 3.3505888322451085],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumatera Utara",
+        "JenisPohon": "Cengkeh",
+        "Luas": "3.012",
+        "Penghasilan": "2.553"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "85b9e60d-6f4c-4f3e-a07b-f92063edeecf",
+      "geometry": {
+        "coordinates": [120.70597786792132, -8.501063730640666],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Nusa Tenggara TImur",
+        "JenisPohon": "Cengkeh",
+        "Luas": "15.739",
+        "Penghasilan": "1.937"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "53fc83c9-c6fa-4c34-87ca-2401469870a4",
+      "geometry": {
+        "coordinates": [103.9976964370216, 1.0743359550250204],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Riau",
+        "JenisPohon": "Cengkeh",
+        "Luas": "15.081",
+        "Penghasilan": "3.282"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "3e29c573-97f1-418d-985f-9de5936474e9",
+      "geometry": {
+        "coordinates": [96.46544055406764, 4.952579528999678],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Aceh",
+        "JenisPohon": "Cengkeh",
+        "Luas": "21.374",
+        "Penghasilan": "2.309"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "f81617a0-f735-4c50-a961-80c962889244",
+      "geometry": {
+        "coordinates": [124.31987434519118, 0.7270082736523023],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulawesi Utara",
+        "JenisPohon": "Cengkeh",
+        "Luas": "75.519",
+        "Penghasilan": "9.565"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "efe421c4-b7c7-4bbf-a7f0-b90f34111cb8",
+      "geometry": {
+        "coordinates": [122.42754668323443, 0.6819562599906703],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Gorontalo",
+        "JenisPohon": "Cengkeh",
+        "Luas": "9.253",
+        "Penghasilan": "761"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "b53ae517-908a-476f-98e8-2357a7733d14",
+      "geometry": {
+        "coordinates": [119.4613981654827, -2.1935292796188577],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulawesi Barat",
+        "JenisPohon": "Cengkeh",
+        "Luas": "2.259",
+        "Penghasilan": "396"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "ea363cb1-3517-4e63-979f-be84424e31d8",
+      "geometry": {
+        "coordinates": [121.91691858397587, -3.746044188398514],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulawesi Tenggara",
+        "JenisPohon": "Cengkeh",
+        "Luas": "18.268",
+        "Penghasilan": "6.583"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "f98a2ce0-35ea-40d3-a322-a6fb2cc1a174",
+      "geometry": {
+        "coordinates": [115.27875329364042, -2.9889263917461335],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Kalimantan Selatan",
+        "JenisPohon": "Cengkeh",
+        "Luas": "527",
+        "Penghasilan": "131"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "616e25ee-6f6a-4758-9718-e672fba6e946",
+      "geometry": {
+        "coordinates": [110.63980076688455, -7.893689101432017],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Yogyakarta",
+        "JenisPohon": "Cengkeh",
+        "Luas": "3.082",
+        "Penghasilan": "365"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "e5479d4f-3d7f-4e83-82e4-946a00bfd7f9",
+      "geometry": {
+        "coordinates": [110.48638892360862, -7.0629586800187525],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Tengah",
+        "JenisPohon": "Cengkeh",
+        "Luas": "42.545",
+        "Penghasilan": "6.327"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "ae6bed42-e0fc-45bf-9ac2-b657418bd7eb",
+      "geometry": {
+        "coordinates": [104.3757507222374, -3.775595015739782],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumatera Selatan",
+        "JenisPohon": "Cengkeh",
+        "Luas": "210",
+        "Penghasilan": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "e6103aaf-2349-47a0-8a5b-7e3378579718",
+      "geometry": {
+        "coordinates": [107.81240051538418, -2.6336823516306254],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Babel",
+        "JenisPohon": "Cengkeh",
+        "Luas": "31",
+        "Penghasilan": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "1a8fb927-04c8-4d62-8e8e-7c015470121e",
+      "geometry": {
+        "coordinates": [104.07462457035672, -3.7899270295293377],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumatera Selatan",
+        "JenisPohon": "Tembakau",
+        "Luas": "80",
+        "Penghasilan": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "7fde403d-160c-414b-b927-c7c584e4d480",
+      "geometry": {
+        "coordinates": [110.00506735016239, -7.180099350139244],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Tengah",
+        "JenisPohon": "Tembakau",
+        "Luas": "43.050",
+        "Penghasilan": "30.967"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "e8c22759-2fc8-4b72-89c7-c9314ae68e5d",
+      "geometry": {
+        "coordinates": [110.48004560483588, -7.980499190087045],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Yogyakarta",
+        "JenisPohon": "Tembakau",
+        "Luas": "1.373",
+        "Penghasilan": "686"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "5ce9b4ef-41c6-4a49-bf43-27d600f1f91f",
+      "geometry": {
+        "coordinates": [120.34602249479235, -8.557974331033307],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Nusa Tenggara Timur",
+        "JenisPohon": "Tembakau",
+        "Luas": "3.006",
+        "Penghasilan": "1.539"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "97404aeb-daa9-4495-9944-952094ab08a0",
+      "geometry": {
+        "coordinates": [96.04057714275297, 4.860031292618487],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Aceh",
+        "JenisPohon": "Tembakau",
+        "Luas": "2.262",
+        "Penghasilan": "2.176"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "34f210dd-4445-471d-9ebd-221b927e3b74",
+      "geometry": {
+        "coordinates": [114.95841200604758, -8.356625916525644],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Bali",
+        "JenisPohon": "Tembakau",
+        "Luas": "938",
+        "Penghasilan": "1.134"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "801b7221-8983-436e-a456-455e87f90c0b",
+      "geometry": {
+        "coordinates": [98.79685409910923, 2.04614244192598],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumatera Utara",
+        "JenisPohon": "Teh",
+        "Luas": "5714"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "e520893a-4411-41ee-ac77-c92e9d3d6b8b",
+      "geometry": {
+        "coordinates": [119.7798577141698, -4.409287837885643],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulawesi Selatan",
+        "JenisPohon": "Teh",
+        "Luas": "129"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "5afb4f84-1312-440c-bb34-a6e04292f100",
+      "geometry": {
+        "coordinates": [101.9192641915077, -3.079292193499711],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Bengkulu",
+        "JenisPohon": "Teh",
+        "Luas": "1108"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "414d9ec1-7f3e-4aa0-9b17-60443df2ac95",
+      "geometry": {
+        "coordinates": [112.91064057757603, -7.9559257664484875],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Timur",
+        "JenisPohon": "Tebu",
+        "Luas": "216 558",
+        "Penghasilan": "1.240.000"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "ee012ccc-0050-4797-8748-7431044684f5",
+      "geometry": {
+        "coordinates": [99.50791840187082, 2.395284873657914],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumatera Utara",
+        "JenisPohon": "Tembakau",
+        "Luas": "3.012",
+        "Penghasilan": "2.553"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "46a27d1b-fada-4584-a07e-f7b02f4d317d",
+      "geometry": {
+        "coordinates": [100.28823982026927, -0.012835402713832877],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumatera Barat",
+        "JenisPohon": "Tembakau",
+        "Luas": "1.275",
+        "Penghasilan": "1,172"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "7076361e-f06a-41b4-9ea9-f21052aeaee8",
+      "geometry": {
+        "coordinates": [107.72517172772137, -7.482945781492546],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Barat",
+        "JenisPohon": "Tembakau",
+        "Luas": "1.373",
+        "Penghasilan": "8.901"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "9868cc75-b641-4acd-ae8a-71a40f2a2dd4",
+      "geometry": {
+        "coordinates": [103.26703201746466, -1.4783185373236023],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jambi",
+        "JenisPohon": "Tembakau",
+        "Luas": "221",
+        "Penghasilan": "549"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "de8f30a9-4a1e-407e-a5ae-626ff5f82dd0",
+      "geometry": {
+        "coordinates": [104.52246121047733, -5.38609867903088],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Lampung",
+        "JenisPohon": "Tembakau",
+        "Luas": "533",
+        "Penghasilan": "407"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "1949c894-607a-478d-b583-9bc0006c9d4f",
+      "geometry": {
+        "coordinates": [112.93636172186245, -8.161890239729132],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Timur",
+        "JenisPohon": "Tembakau",
+        "Luas": "97.6241",
+        "Penghasilan": "75.314"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "4b299f28-2781-45bc-ac84-c3c8dea0b0a9",
+      "geometry": {
+        "coordinates": [117.17045359210493, -8.806157213156013],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Nusa Tenggara Barat",
+        "JenisPohon": "Tembakau",
+        "Luas": "28.866",
+        "Penghasilan": "39.184"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "3c0ed22b-69e6-4efc-bba6-2bcc5f7ca4f7",
+      "geometry": {
+        "coordinates": [120.12834566253173, -3.624107828932054],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulawesi Selatan",
+        "JenisPohon": "Tembakau",
+        "Luas": "2.632",
+        "Penghasilan": "1.953"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "4866fb00-adc3-497d-94a4-ddc4b4ec449e",
+      "geometry": {
+        "coordinates": [120.49485018752301, -1.5843240896765138],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sulawesi Tengah",
+        "JenisPohon": "Tembakau",
+        "Luas": "32",
+        "Penghasilan": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "cbb29b86-0112-4ad7-8ac4-9fd9155cfad5",
+      "geometry": {
+        "coordinates": [104.20135357022542, -1.4845912798536176],
+        "type": "Point"
+      },
+      "properties": { "Lokasi": "Jambi", "JenisPohon": "Teh", "Luas": "2600" }
+    },
+    {
+      "type": "Feature",
+      "key": "0bf5f15b-620a-4163-ba50-238f7cb0852f",
+      "geometry": {
+        "coordinates": [103.96435251737853, -3.4519050681480365],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumatera Selatan",
+        "JenisPohon": "Teh",
+        "Luas": "1470"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "93a6551c-61e3-4ebe-98c9-e7449e1bbb71",
+      "geometry": {
+        "coordinates": [107.61353945069897, -6.959290938058814],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Barat",
+        "JenisPohon": "Teh",
+        "Luas": "9206"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "d43bd930-944d-43fa-9c1b-e21900220f16",
+      "geometry": {
+        "coordinates": [109.74702125721666, -7.261210197591083],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Timur",
+        "JenisPohon": "Teh",
+        "Luas": "2436"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "9bc4fbcf-541d-4e95-8e72-e9f9cc7488a3",
+      "geometry": {
+        "coordinates": [110.17591708429887, -7.799064262192644],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Yogyakarta",
+        "JenisPohon": "Teh",
+        "Luas": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "d4000683-5fc2-4245-9941-7f66443e7b28",
+      "geometry": {
+        "coordinates": [116.20737181261791, 0.814182222833125],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Kalimantan Timur",
+        "JenisPohon": "Teh",
+        "Luas": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "09fa076a-54a6-49e0-a6fb-2b21e7842ec6",
+      "geometry": {
+        "coordinates": [101.05264797174158, -1.2752198793552338],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumartera Barat",
+        "JenisPohon": "Teh",
+        "Luas": "4574"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "0a12a118-a8aa-43af-a69e-d19368ae0596",
+      "geometry": {
+        "coordinates": [103.28525609573359, -3.2387382275590113],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Sumatra Selatan",
+        "JenisPohon": "Tebu",
+        "Luas": "22 618",
+        "Penghasilan": "10.000"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "9c013237-b86b-41ae-a957-e73d32255915",
+      "geometry": {
+        "coordinates": [105.52448266352349, -4.363522035566376],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Lampung",
+        "JenisPohon": "Tebu",
+        "Luas": "115 172",
+        "Penghasilan": "760.000"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "a8ae76ab-4c83-43ea-802a-c6d1d2662874",
+      "geometry": {
+        "coordinates": [107.87238080005415, -6.990299791574188],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Barat",
+        "JenisPohon": "Tebu",
+        "Luas": "23 505",
+        "Penghasilan": "90.000"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "896be7f1-afbc-45ac-9b3e-aa23b8e2a4b7",
+      "geometry": {
+        "coordinates": [109.48278346866891, -7.256628269614922],
+        "type": "Point"
+      },
+      "properties": {
+        "Lokasi": "Jawa Tengah",
+        "JenisPohon": "Tebu",
+        "Luas": "57 662 ",
+        "Penghasilan": "210.000"
+      }
+    }
+  ]
+}
